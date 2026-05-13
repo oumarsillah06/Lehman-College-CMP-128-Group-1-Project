@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    font-size: 125%;
+}
+header{
+    font-size:xx-large;
+    font-weight: bold;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    background-color: rgb(106, 106, 175);
+}
+img{
+    max-width: 200px;
+}
